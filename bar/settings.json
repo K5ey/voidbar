@@ -1,0 +1,17 @@
+{
+  "position": "top",
+  "height": 46,
+  "pywal": false,
+  "pinned": [
+    "foot",
+    "org.kde.dolphin",
+    "firefox",
+    "steam",
+    "discord"
+  ],
+  "launcherCmd": "~/.config/wofi/wofi-launch",
+  "wsStart": {
+    "DP-3": 1,
+    "HDMI-A-1": 6
+  }
+}
